@@ -11,3 +11,6 @@ https://public.tableau.com/profile/alex.mitchell8653#!/vizhome/NYCCitibikeanalys
 ![Ride Times](/Resources/popular_ride_times.png)
 ![Male Ride Times](/Resources/male_ride_times.png)
 ![Types of Users](/Resources/user_type.png)
+
+# Summary 
+Overall we see that our most popular user persona is a male with a subscription who use the bike for his daily commute of 20 minutes or less in Manhattan. For further analysis I would recommend creating a map to analyze weekend data of non subscribers to see most popular locations among tourists. Line graph of ride count by time of day on the weekends to analyze weekend data of non subscribers to see most popular travel times among tourists.
